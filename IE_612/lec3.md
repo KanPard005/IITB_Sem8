@@ -1,3 +1,7 @@
+---
+title: Lecture 3
+---
+
 # Basic Theory of Interest
 - Simple interest
 - Compound interest: interest in one period is re-invested
@@ -34,3 +38,10 @@
 - Market for future cash
 - Perpetual returns, fixed return term schemes at committed times
 - Annuities
+
+# Securities and Trading
+- Most bonds can be traded and can vary in their price depending on when they are traded and the percevied value of the promised fixed return
+- Thus, although they are fixed return instruments, they can also be treated as variable return instruments
+- In most markets, there would be one risk-free asset.
+- There are some assets which cannot be traded, and are hence less liquid. However, one can often borrow against them, and provided collateral and liquidity
+- Assets which are traded have a price, and hence there is a continuous assessment of their value
